@@ -1,0 +1,84 @@
+YOUR WEBSITE + ADMIN PANEL  -  SIMPLE GUIDE
+============================================
+
+LOGIN FOR TESTING (change it right away - see Step 3)
+   Address : yourwebsite.com/admin
+   Username: admin
+   Password: Admin@123
+
+
+STEP 1 - UPLOAD THE FILES TO YOUR HOSTING
+-----------------------------------------
+Your hosting must support PHP (almost every hosting does - ask your host if unsure).
+
+A) Using your hosting control panel (cPanel / hPanel) - easiest
+   1. Log in to your hosting account and open "File Manager".
+   2. Open the folder called  public_html  (this is your website's main folder.
+      On some hosts it is called "www" or "htdocs").
+   3. Click "Upload" and choose the ZIP file you downloaded.
+   4. When it finishes, right-click the ZIP file and choose "Extract".
+   5. IMPORTANT: after extracting, open public_html and check that you can see
+      index.html, about.html, and the folders  admin, data, uploads, css, js, assets
+      directly inside it. If they are inside another folder, select everything in that
+      folder, move it up into public_html, then delete the empty folder.
+   6. Delete the ZIP file from public_html (it is no longer needed).
+
+B) Using FTP (FileZilla)
+   1. Unzip the file on your computer.
+   2. Connect to your hosting with FileZilla.
+   3. Open public_html on the right side, then drag ALL the unzipped files and folders in.
+
+STEP 2 - MAKE SURE THE SAVING FOLDERS CAN BE WRITTEN TO
+-------------------------------------------------------
+In File Manager, right-click each of these folders, choose "Permissions"
+(or "Change Permissions"), and set the number to 755:
+      data      uploads      admin
+If, later, saving shows a message about permissions, change them to 775 and try again.
+
+STEP 3 - LOG IN AND CHANGE THE DEFAULT PASSWORD (DO THIS FIRST!)
+----------------------------------------------------------------
+   1. In your browser go to:  yourwebsite.com/admin
+   2. Log in with   admin   and   Admin@123
+   3. You will see an orange warning on the dashboard. Click "Change password"
+      (or click "Password & Security" on the left menu).
+   4. Fill in:  your current password (Admin@123), a new username (any you like),
+      a new password (at least 8 characters - mix letters, numbers and a symbol),
+      then type the new password again.
+   5. Click "Save new password". Done - the warning disappears.
+   6. Write the new login somewhere safe. Use it from now on.
+
+HOW TO EDIT YOUR WEBSITE
+------------------------
+   - Use the menu on the left: Home Page, Portfolio Page, About Page,
+     Services & Prices, Contact & Social, Logo & Footer, All Images, Color Theme.
+   - Change anything, then click the purple "Save changes" button (top right,
+     or press Ctrl+S). Your live website updates immediately.
+   - The top bar shows "Unsaved changes" until you save.
+   - To change a picture: click "Upload new image" next to it, pick a photo,
+     then click "Save changes". Large photos are made smaller automatically.
+   - To add or remove services / projects / testimonials: use the "+ Add" button
+     at the bottom of the list, or the red X on an item. Use the arrows to reorder.
+   - Color Theme: click a theme and the whole live website changes color at once.
+   - If your browser still shows the old version, press Ctrl+F5 to refresh.
+
+IF YOU FORGET YOUR PASSWORD
+---------------------------
+Re-upload the file  admin/auth.php  from this ZIP to your hosting's admin folder
+(replace the old one). The login goes back to admin / Admin@123 - then change it again.
+
+VERY IMPORTANT WHEN UPDATING FILES LATER
+-----------------------------------------
+Never overwrite or delete these, or you will lose your edits and pictures:
+      the "data" folder     the "uploads" folder     admin/auth.php
+Back up the "data" and "uploads" folders now and then (download them to your computer).
+
+NOTES
+-----
+   - Videos: you can upload MP4/WEBM files for portfolio projects. Your hosting may
+     limit big files. If an upload fails, upload a smaller video, or paste a YouTube-free
+     direct link/file path into the video box.
+   - The contact form on the website is still in demo mode (as in your original
+     template): it shows "Message sent" but does not email you. To receive messages,
+     open js/contact.js and paste a form-service address (e.g. Formspree) into FORM_ENDPOINT.
+   - You can't use the Admin Panel by double-clicking the files on your computer - it
+     needs your hosting (PHP) to save changes.
