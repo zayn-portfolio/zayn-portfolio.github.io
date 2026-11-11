@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Admin Panel</title>
+<script>
+if (!location.pathname.endsWith('/') && !location.pathname.endsWith('.html')) {
+  location.replace(location.pathname + '/' + location.search + location.hash);
+}
+</script>
+<link rel="stylesheet" href="admin.css"></head>
+<body>
+<div id="login">
+ <form id="lform" class="lcard" autocomplete="on">
+  <div class="lbadge">A</div><h1>Admin Panel</h1><p>Log in to manage your website.</p>
+  <label class="f"><span>Username</span><input id="lu" name="username" autocomplete="username" required autofocus></label>
+  <label class="f"><span>Password</span><input id="lp" name="password" type="password" autocomplete="current-password" required></label>
+  <p class="lerr" id="lerr" hidden></p>
+  <button class="btn pri full" id="lbtn" type="submit">Log in</button>
+  <a class="back" href="../index.html">&larr; Back to website</a>
+ </form>
+</div>
+<div id="app" hidden>
+ <aside id="side"><div class="brand"><span class="lbadge sm">A</span><b>Admin Panel</b></div><nav id="nav"></nav>
+  <a class="view" href="../index.html" target="_blank" rel="noopener">View live website &#8599;</a></aside>
+ <div id="wrap">
+  <header id="top"><button id="burger" aria-label="Menu">&#9776;</button><h2 id="ttl">Dashboard</h2><span id="state" class="state ok">All changes saved</span>
+   <button class="btn pri" id="save">Save changes</button><button class="btn" id="out">Log out</button></header>
+  <main id="main"></main>
+ </div>
+</div>
+<input type="file" id="filepick" hidden>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="../js/shared.js"></script><script src="admin.js"></script>
+</body></html>

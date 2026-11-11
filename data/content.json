@@ -1,0 +1,728 @@
+{
+    "theme": "charcoal-orange",
+    "site": {
+        "brand": "Zayn",
+        "footer": "Video editor and graphic designer creating UGC ads and product ads that sell.",
+        "copyright": "Zayn Sajju",
+        "profile": "assets/img/profile-placeholder.svg",
+        "profileAlt": "Portrait of Zayn Sajju",
+        "hireBtn": "Hire me"
+    },
+    "info": {
+        "email": "workbykawsar@gmail.com",
+        "whatsapp": "",
+        "socials": {
+            "instagram": "https://www.instagram.com/",
+            "youtube": "https://www.youtube.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "behance": "https://www.behance.net/",
+            "fiverr": "https://www.fiverr.com/",
+            "facebook": "",
+            "tiktok": ""
+        }
+    },
+    "home": {
+        "metaTitle": "Zayn Sajju | Video Editor & Graphic Designer",
+        "metaDesc": "Zayn Sajju creates UGC ads and product ads that make products sell. 250+ projects, 40+ clients, 4.9 average rating.",
+        "role": "UGC ads creator and video editor ",
+        "title": "Zayn Sajju",
+        "tagline": "Designs and videos that make products sell.",
+        "sub": "I make UGC ads and polished product ads for brands that want more clicks, more trust and more orders.",
+        "btn1": "View My Work",
+        "btn2": "Start a project",
+        "ratingNum": "9.6",
+        "ratingLabel": "client rating",
+        "stats": [
+            {
+                "to": "250",
+                "suf": "+",
+                "dec": "0",
+                "label": "Projects completed"
+            },
+            {
+                "to": "40",
+                "suf": "+",
+                "dec": "0",
+                "label": "Happy clients"
+            },
+            {
+                "to": "4",
+                "suf": "",
+                "dec": "0",
+                "label": "Years of experience"
+            },
+            {
+                "to": "4.9",
+                "suf": "",
+                "dec": "1",
+                "label": "Average client rating"
+            }
+        ],
+        "svcTitle": "What I can make for your brand",
+        "svcSub": "Ads built to stop the scroll and turn viewers into buyers.",
+        "cards": [
+            {
+                "icon": "phone",
+                "title": "UGC ads",
+                "text": "Authentic, creator-style videos that feel real and convert."
+            },
+            {
+                "icon": "cube",
+                "title": "Product ads",
+                "text": "Clean, high-end visuals that show your product at its best."
+            },
+            {
+                "icon": "video",
+                "title": "Video editing",
+                "text": "Sharp cuts, sound and motion for reels, shorts and promos."
+            },
+            {
+                "icon": "palette",
+                "title": "Graphic design",
+                "text": "Ad creatives, thumbnails and brand visuals that look sharp."
+            }
+        ],
+        "workTitle": "Featured work",
+        "workSub": "A few recent ads made for brands like yours.",
+        "workBtn": "View Full Portfolio",
+        "work": [
+            {
+                "title": "Cinematic Product Commercial",
+                "label": "AI Professional Ad",
+                "img": "uploads/thumbs/thumb_pro_1_1080p_1.jpg"
+            },
+            {
+                "title": "AI UGC Creator Showcase",
+                "label": "AI UGC Ad",
+                "img": "uploads/thumbs/thumb_ugc_1_720p_1.jpg"
+            },
+            {
+                "title": "Premium Brand Launch",
+                "label": "AI Professional Ad",
+                "img": "uploads/thumbs/thumb_pro_2_1080p.jpg"
+            },
+            {
+                "title": "TikTok & Reels UGC Promo",
+                "label": "AI UGC Ad",
+                "img": "uploads/thumbs/thumb_ugc_4_2dde8c008d39dfc44683e6c65904a02a_720w.jpg"
+            },
+            {
+                "title": "Luxury Event Showcase",
+                "label": "AI Professional Ad",
+                "img": "uploads/thumbs/thumb_pro_9.jpg"
+            },
+            {
+                "title": "Aesthetic Beauty UGC",
+                "label": "AI UGC Ad",
+                "img": "uploads/thumbs/thumb_ugc_10_aramarastudio_pindown_io_1793452275.jpg"
+            }
+        ],
+        "testiTitle": "What clients say",
+        "testimonials": [
+            {
+                "quote": "Zayn turned our raw footage into UGC ads that outperformed everything we had run before. Our cost per purchase dropped within two weeks.",
+                "name": "Sarah Mitchell",
+                "role": "Founder, Lumora Skin"
+            },
+            {
+                "quote": "Fast, professional and great with feedback. He delivered a full set of product ads in four days and every one was ready to launch.",
+                "name": "Daniel Kim",
+                "role": "Marketing Lead, Voltrix"
+            },
+            {
+                "quote": "He understands what makes people buy. The edits looked premium and our engagement on social doubled after the new videos went live.",
+                "name": "Priya Raman",
+                "role": "Brand Manager, Aurelle Beauty"
+            }
+        ],
+        "brandsTitle": "Brands I have worked with",
+        "brands": "Lumora Skin, Voltrix, NorthPeak, Kaizen Fit, Aurelle Beauty, Brewhaus, PulseWear, Zenith Tech",
+        "cta": {
+            "title": "Ready to make your product sell?",
+            "text": "Tell me about your brand and your goals. I will reply within 24 hours with ideas and a quote.",
+            "btn": "Contact me"
+        }
+    },
+    "portfolio": {
+        "metaTitle": "Portfolio | Zayn Sajju",
+        "metaDesc": "Amazon listing images, AI UGC ads and product video ads by Zayn Sajju.",
+        "title": "My work",
+        "sub": "Amazon listing images, AI UGC ads and product video ads made to help brands sell. Pick a category, then click any project to see it larger.",
+        "tabs": {
+            "ugc": "AI UGC Ads",
+            "video": "AI Professional Ads",
+            "amazon": "Product Image Ads"
+        },
+        "labels": {
+            "ugc": "AI UGC Ad",
+            "video": "AI Professional Ad",
+            "amazon": "Image Ad"
+        },
+        "cta": {
+            "title": "Want results like these for your brand?",
+            "text": "Send me a quick message about your product and I will reply within 24 hours.",
+            "btn": "Contact me"
+        },
+        "projects": [
+            {
+                "id": "u1",
+                "cat": "ugc",
+                "title": "AI UGC Product Showcase",
+                "desc": "Authentic creator-style review and product demonstration designed to convert.",
+                "long": "Authentic creator-style review and product demonstration designed to convert. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_1_720p_1.jpg",
+                "video": "uploads/ugc/ugc_1_720p_1.mp4"
+            },
+            {
+                "id": "u2",
+                "cat": "ugc",
+                "title": "AI UGC Testimonial Reel",
+                "desc": "High-converting UGC video testimonial optimized for social media feeds.",
+                "long": "High-converting UGC video testimonial optimized for social media feeds. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_2_720p_3.jpg",
+                "video": "uploads/ugc/ugc_2_720p_3.mp4"
+            },
+            {
+                "id": "u3",
+                "cat": "ugc",
+                "title": "AI UGC Lifestyle Promo",
+                "desc": "Scroll-stopping lifestyle ad crafted with realistic AI creator avatars.",
+                "long": "Scroll-stopping lifestyle ad crafted with realistic AI creator avatars. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_3_720p_4.jpg",
+                "video": "uploads/ugc/ugc_3_720p_4.mp4"
+            },
+            {
+                "id": "u4",
+                "cat": "ugc",
+                "title": "AI UGC TikTok & Reel Ad",
+                "desc": "Engaging portrait format video built for TikTok, Reels, and Shorts.",
+                "long": "Engaging portrait format video built for TikTok, Reels, and Shorts. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_4_2dde8c008d39dfc44683e6c65904a02a_720w.jpg",
+                "video": "uploads/ugc/ugc_4_2dde8c008d39dfc44683e6c65904a02a_720w.mp4"
+            },
+            {
+                "id": "u5",
+                "cat": "ugc",
+                "title": "AI UGC Customer Story",
+                "desc": "Authentic customer experience and real reaction video driving social proof.",
+                "long": "Authentic customer experience and real reaction video driving social proof. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_5_6a18a4af523fe5c62cf76bb5ac9db6b3_720w.jpg",
+                "video": "uploads/ugc/ugc_5_6a18a4af523fe5c62cf76bb5ac9db6b3_720w.mp4"
+            },
+            {
+                "id": "u6",
+                "cat": "ugc",
+                "title": "Creative Party Decor UGC Ad",
+                "desc": "Aesthetic DIY decor ideas and festive styling reel.",
+                "long": "Aesthetic DIY decor ideas and festive styling reel. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_6.jpg",
+                "video": "uploads/ugc/ugc_6.mp4"
+            },
+            {
+                "id": "u7",
+                "cat": "ugc",
+                "title": "Modern Event & Decor Reel",
+                "desc": "Engaging viral party decor showcase with trend-focused pacing.",
+                "long": "Engaging viral party decor showcase with trend-focused pacing. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_7.jpg",
+                "video": "uploads/ugc/ugc_7.mp4"
+            },
+            {
+                "id": "u8",
+                "cat": "ugc",
+                "title": "Celebration Styling Promo",
+                "desc": "Trending party celebration and styling showcase for modern brands.",
+                "long": "Trending party celebration and styling showcase for modern brands. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_8.jpg",
+                "video": "uploads/ugc/ugc_8.mp4"
+            },
+            {
+                "id": "u9",
+                "cat": "ugc",
+                "title": "Dynamic Brand Creator Creative",
+                "desc": "Fast-paced creator review with vibrant music, transitions, and text overlays.",
+                "long": "Fast-paced creator review with vibrant music, transitions, and text overlays. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_9_HnVideoEditor_2026_11_02_220116778.jpg",
+                "video": "uploads/ugc/ugc_9_HnVideoEditor_2026_11_02_220116778.mp4"
+            },
+            {
+                "id": "u10",
+                "cat": "ugc",
+                "title": "Aesthetic Beauty & Lifestyle UGC",
+                "desc": "Soft aesthetic UGC ad built for high conversion and brand trust.",
+                "long": "Soft aesthetic UGC ad built for high conversion and brand trust. Produced with attention to hook timing, visual retention, and conversion-focused call-to-actions.",
+                "img": "uploads/thumbs/thumb_ugc_10_aramarastudio_pindown_io_1793452275.jpg",
+                "video": "uploads/ugc/ugc_10_aramarastudio_pindown_io_1793452275.mp4"
+            },
+            {
+                "id": "v1",
+                "cat": "ugc",
+                "title": "Cinematic 1080p Product Spot",
+                "desc": "High-definition product commercial with premium studio motion.",
+                "long": "High-definition product commercial with premium studio motion. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_1_1080p_1.jpg",
+                "video": "uploads/professional/pro_1_1080p_1.mp4"
+            },
+            {
+                "id": "v2",
+                "cat": "video",
+                "title": "Premium Brand Launch Commercial",
+                "desc": "Polished lighting, cinematic angles, and crisp visual storytelling.",
+                "long": "Polished lighting, cinematic angles, and crisp visual storytelling. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_2_1080p.jpg",
+                "video": "uploads/professional/pro_2_1080p.mp4"
+            },
+            {
+                "id": "v3",
+                "cat": "ugc",
+                "title": "Sleek Product Feature Reel",
+                "desc": "Sharp cuts and dynamic camera angles highlighting key product features.",
+                "long": "Sharp cuts and dynamic camera angles highlighting key product features. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_3_720p.jpg",
+                "video": "uploads/professional/pro_3_720p.mp4"
+            },
+            {
+                "id": "v4",
+                "cat": "video",
+                "title": "Modern Motion Brand Ad",
+                "desc": "High-impact visual effects, sound design, and clean product framing.",
+                "long": "High-impact visual effects, sound design, and clean product framing. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_4_750cc0457ec4b8144e27ce3a94360f43_540w.jpg",
+                "video": "uploads/professional/pro_4_750cc0457ec4b8144e27ce3a94360f43_540w.mp4"
+            },
+            {
+                "id": "v5",
+                "cat": "video",
+                "title": "Luxe Kids Craft & Decor Ad",
+                "desc": "Dreamy, high-end styling ideas commercial with luxury aesthetic.",
+                "long": "Dreamy, high-end styling ideas commercial with luxury aesthetic. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_5.jpg",
+                "video": "uploads/professional/pro_5.mp4"
+            },
+            {
+                "id": "v6",
+                "cat": "video",
+                "title": "Bridal Styling & Beauty Spot",
+                "desc": "Polished hair aesthetics commercial with elegant details.",
+                "long": "Polished hair aesthetics commercial with elegant details. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_6.jpg",
+                "video": "uploads/professional/pro_6.mp4"
+            },
+            {
+                "id": "v7",
+                "cat": "video",
+                "title": "Modern DIY Gift Inspiration",
+                "desc": "Balancing beauty and everyday function in a compelling visual narrative.",
+                "long": "Balancing beauty and everyday function in a compelling visual narrative. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_7.jpg",
+                "video": "uploads/professional/pro_7.mp4"
+            },
+            {
+                "id": "v8",
+                "cat": "video",
+                "title": "Aesthetic Bridal Decor Spot",
+                "desc": "Luxury decor presentation designed to captivate and convert viewers.",
+                "long": "Luxury decor presentation designed to captivate and convert viewers. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_8.jpg",
+                "video": "uploads/professional/pro_8.mp4"
+            },
+            {
+                "id": "v9",
+                "cat": "video",
+                "title": "Luxury Event Showcase Commercial",
+                "desc": "High-end aesthetic celebration promo with cinematic color grade.",
+                "long": "High-end aesthetic celebration promo with cinematic color grade. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_9.jpg",
+                "video": "uploads/professional/pro_9.mp4"
+            },
+            {
+                "id": "v10",
+                "cat": "video",
+                "title": "High-Energy Commercial Promo",
+                "desc": "Vibrant motion, punchy transitions, and commercial-grade color timing.",
+                "long": "Vibrant motion, punchy transitions, and commercial-grade color timing. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_10_HnVideoEditor_2026_11_02_220005910.jpg",
+                "video": "uploads/professional/pro_10_HnVideoEditor_2026_11_02_220005910.mp4"
+            },
+            {
+                "id": "v11",
+                "cat": "video",
+                "title": "Creative Digital Product Spot",
+                "desc": "3D feel, animated graphics, and dynamic motion for modern digital brands.",
+                "long": "3D feel, animated graphics, and dynamic motion for modern digital brands. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_11_Pixariyo_pindown_io_1793452691.jpg",
+                "video": "uploads/professional/pro_11_Pixariyo_pindown_io_1793452691.mp4"
+            },
+            {
+                "id": "v12",
+                "cat": "video",
+                "title": "Studio Grade Brand Commercial",
+                "desc": "Minimalist product elegance with crisp visuals and high production value.",
+                "long": "Minimalist product elegance with crisp visuals and high production value. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_12_adnovastudio_pindown_io_1793452543.jpg",
+                "video": "uploads/professional/pro_12_adnovastudio_pindown_io_1793452543.mp4"
+            },
+            {
+                "id": "v13",
+                "cat": "video",
+                "title": "E-Commerce Highlight Video",
+                "desc": "Direct-response video ad engineered for maximum CTR and ROAS.",
+                "long": "Direct-response video ad engineered for maximum CTR and ROAS. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_13_aynuryh_pindown_io_1793452596.jpg",
+                "video": "uploads/professional/pro_13_aynuryh_pindown_io_1793452596.mp4"
+            },
+            {
+                "id": "v14",
+                "cat": "video",
+                "title": "Cinematic Motion Ad",
+                "desc": "Immersive atmosphere, sound design, and visual polish for premium brands.",
+                "long": "Immersive atmosphere, sound design, and visual polish for premium brands. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_14_kaijento_pindown_io_1793452582.jpg",
+                "video": "uploads/professional/pro_14_kaijento_pindown_io_1793452582.mp4"
+            },
+            {
+                "id": "v15",
+                "cat": "video",
+                "title": "Flagship Product Showcase",
+                "desc": "Comprehensive visual tour showcasing craftsmanship and build quality.",
+                "long": "Comprehensive visual tour showcasing craftsmanship and build quality. Created with custom sound design, cinematic color grading, and commercial polish.",
+                "img": "uploads/thumbs/thumb_pro_15_y0479437_pindown_io_1793452622.jpg",
+                "video": "uploads/professional/pro_15_y0479437_pindown_io_1793452622.mp4"
+            },
+            {
+                "id": "img_1",
+                "cat": "amazon",
+                "title": "Nike Athletic Footwear Ad",
+                "desc": "High-energy sportswear ad creative designed for social campaigns.",
+                "long": "High-energy sportswear ad creative designed for social campaigns. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_1.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_2",
+                "cat": "amazon",
+                "title": "NIVEA Classic Care Poster",
+                "desc": "Minimalist, trust-building skincare brand advertisement.",
+                "long": "Minimalist, trust-building skincare brand advertisement. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_2.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_3",
+                "cat": "amazon",
+                "title": "Luxe Botanical Serum Ad",
+                "desc": "High-end aesthetic product visual for premium cosmetics.",
+                "long": "High-end aesthetic product visual for premium cosmetics. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_3.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_4",
+                "cat": "amazon",
+                "title": "Olipop Sparkling Tonic Ad",
+                "desc": "Vibrant and playful direct-response beverage social ad.",
+                "long": "Vibrant and playful direct-response beverage social ad. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_4.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_5",
+                "cat": "amazon",
+                "title": "Lakmé Cleanse+ Face Wash",
+                "desc": "Crisp, refreshing commercial poster with vibrant splash effects.",
+                "long": "Crisp, refreshing commercial poster with vibrant splash effects. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_5.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_6",
+                "cat": "amazon",
+                "title": "Garnier Ultra Dolce Haircare",
+                "desc": "Warm natural aesthetics showcasing organic ingredients.",
+                "long": "Warm natural aesthetics showcasing organic ingredients. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_6.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_7",
+                "cat": "amazon",
+                "title": "Wepink Hair Radiance Poster",
+                "desc": "Bold beauty marketing poster tailored for Instagram feeds.",
+                "long": "Bold beauty marketing poster tailored for Instagram feeds. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_7.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_8",
+                "cat": "amazon",
+                "title": "Lavender Body Butter Creative",
+                "desc": "Gentle, organic hydration visual design with soft palette.",
+                "long": "Gentle, organic hydration visual design with soft palette. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_8.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_9",
+                "cat": "amazon",
+                "title": "T97 Cold Brew Coffee Spot",
+                "desc": "Studio beverage photography & typography layout.",
+                "long": "Studio beverage photography & typography layout. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_9.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_10",
+                "cat": "amazon",
+                "title": "Roasted Almonds Snack Creative",
+                "desc": "Appetite-driven food packaging & promo creative.",
+                "long": "Appetite-driven food packaging & promo creative. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_10.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_11",
+                "cat": "amazon",
+                "title": "Skin White Professional Care",
+                "desc": "Clean, dermatological look and feel for beauty branding.",
+                "long": "Clean, dermatological look and feel for beauty branding. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_11.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_12",
+                "cat": "amazon",
+                "title": "Velvet Floral Perfume Visual",
+                "desc": "Moody cinematic lighting and floral accents for luxury scent.",
+                "long": "Moody cinematic lighting and floral accents for luxury scent. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_12.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_13",
+                "cat": "amazon",
+                "title": "Splash Art Liquid Concept Ad",
+                "desc": "High-speed liquid simulation visual for refreshing products.",
+                "long": "High-speed liquid simulation visual for refreshing products. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_13.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_14",
+                "cat": "amazon",
+                "title": "Pure Citrus Refreshment Poster",
+                "desc": "Bold graphic design with contrasting fruit splash colors.",
+                "long": "Bold graphic design with contrasting fruit splash colors. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_14.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_15",
+                "cat": "amazon",
+                "title": "Urban Fashion & Lifestyle Ad",
+                "desc": "Modern streetwear and fashion accessory social poster.",
+                "long": "Modern streetwear and fashion accessory social poster. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_15.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_16",
+                "cat": "amazon",
+                "title": "Minimalist Tech Product Ad",
+                "desc": "Sleek 3D background with focused spotlight product placement.",
+                "long": "Sleek 3D background with focused spotlight product placement. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_16.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_17",
+                "cat": "amazon",
+                "title": "Brand Growth Campaign Creative",
+                "desc": "Attention-grabbing social visual optimized for engagement.",
+                "long": "Attention-grabbing social visual optimized for engagement. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_17.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_18",
+                "cat": "amazon",
+                "title": "Modern Creative Agency Graphic",
+                "desc": "Sophisticated layout blending geometric forms and typography.",
+                "long": "Sophisticated layout blending geometric forms and typography. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_18.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_19",
+                "cat": "amazon",
+                "title": "AI Enhanced Futuristic Visual",
+                "desc": "Cutting-edge digital concept poster for modern campaigns.",
+                "long": "Cutting-edge digital concept poster for modern campaigns. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_19.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_20",
+                "cat": "amazon",
+                "title": "Men's Active Charcoal Shampoo",
+                "desc": "Bold dark-mode grooming ad for male lifestyle brands.",
+                "long": "Bold dark-mode grooming ad for male lifestyle brands. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_20.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_21",
+                "cat": "amazon",
+                "title": "Gentle Hydration Face Cream",
+                "desc": "Pure, clinical aesthetic showcasing moisture protection.",
+                "long": "Pure, clinical aesthetic showcasing moisture protection. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_21.jpg",
+                "video": ""
+            },
+            {
+                "id": "img_22",
+                "cat": "amazon",
+                "title": "Pure Citrus Energy Boost",
+                "desc": "Vibrant citrus burst creative for wellness and energy drinks.",
+                "long": "Vibrant citrus burst creative for wellness and energy drinks. Designed with conversion psychology, clear typography, and brand-aligned color grading for high CTR and sales.",
+                "img": "uploads/images/img_ad_22.jpg",
+                "video": ""
+            }
+        ]
+    },
+    "about": {
+        "metaTitle": "About | Zayn Sajju",
+        "metaDesc": "The story of Zayn Sajju: a graphic designer turned video editor who makes UGC ads, AI UGC ads and product video ads that convert.",
+        "role": "Video editor and graphic designer",
+        "title": "Hi, I'm Zayn Sajju",
+        "paras": [
+            "I started in 2021 with basic graphic design, learning the fundamentals of layout, color and typography. Over time I moved into Amazon listing images, then into video editing.",
+            "Today my main focus is creating UGC ads, AI UGC ads and professional product video ads for brands and online sellers.",
+            "What makes me different is that I combine graphic design with video editing. Every ad I make looks polished and is built to convert, not just to look good."
+        ],
+        "pills": [
+            "Graphic design",
+            "Video editing",
+            "Ads that convert"
+        ],
+        "missionTitle": "My mission",
+        "mission": "To help brands and sellers turn their products into scroll-stopping visuals and ads that earn attention, build trust and drive more sales.",
+        "journeyTitle": "My journey so far",
+        "journeySub": "From basic layouts to 250+ projects.",
+        "journey": [
+            {
+                "year": "2021",
+                "title": "Started basic graphic design",
+                "text": "Learned the fundamentals of layout, color and typography."
+            },
+            {
+                "year": "",
+                "title": "First paid client for Amazon listing images",
+                "text": "Turned my design skills into real work for online sellers."
+            },
+            {
+                "year": "",
+                "title": "Crossed 100 completed designs",
+                "text": "Built the speed and the eye for what makes a product sell."
+            },
+            {
+                "year": "",
+                "title": "Started creating video ads and UGC ads",
+                "text": "Added video editing to my design skills."
+            },
+            {
+                "year": "",
+                "title": "Reached 250+ projects and 40+ clients",
+                "text": "Now focused on UGC, AI UGC and product video ads."
+            }
+        ],
+        "skillsTitle": "Core skills",
+        "skillsSub": "The tools I use every day to make ads that work.",
+        "skills": [
+            {
+                "name": "Amazon Listing Design",
+                "pct": 95
+            },
+            {
+                "name": "Video Editing",
+                "pct": 92
+            },
+            {
+                "name": "AI UGC Ad Creation",
+                "pct": 90
+            },
+            {
+                "name": "Product Video Ads",
+                "pct": 93
+            },
+            {
+                "name": "Graphic Design and Branding",
+                "pct": 94
+            }
+        ],
+        "cta": {
+            "title": "Let's make your product stand out",
+            "text": "Tell me about your brand and what you want to sell. I will reply within 24 hours.",
+            "btn": "Contact me"
+        }
+    },
+    "services": {
+        "metaTitle": "Services | Zayn Sajju",
+        "metaDesc": "Amazon listing images from $30, AI UGC ads from $50, product video ads from $80 and logo design from $40 by Zayn Sajju.",
+        "title": "Services",
+        "sub": "Clear services with clear starting prices. Pick the one that fits your product, or contact me to mix and match.",
+        "items": [
+            {
+                "icon": "image",
+                "title": "Amazon Listing Image Design",
+                "text": "A full set of high converting listing images, including the main image, infographics and lifestyle images.",
+                "from": "Starting at",
+                "price": "$30",
+                "unit": "per listing",
+                "btn": "Get started"
+            },
+            {
+                "icon": "phone",
+                "title": "AI UGC Ads",
+                "text": "Realistic UGC style video ads created with AI for your products, ready for Facebook, Instagram and TikTok.",
+                "from": "Starting at",
+                "price": "$50",
+                "unit": "per video",
+                "btn": "Get started"
+            },
+            {
+                "icon": "video",
+                "title": "Professional Product Video Ads",
+                "text": "Polished product video ads with motion graphics, sound design and cinematic editing.",
+                "from": "Starting at",
+                "price": "$80",
+                "unit": "per video",
+                "btn": "Get started"
+            },
+            {
+                "icon": "logo",
+                "title": "Logo and Brand Design",
+                "text": "A clean, professional logo and basic brand look for new businesses and online brands.",
+                "from": "Starting at",
+                "price": "$40",
+                "unit": "per logo",
+                "btn": "Get started"
+            }
+        ],
+        "cta": {
+            "title": "Not sure which service you need?",
+            "text": "Tell me about your product and I will suggest the best fit and send you a quote within 24 hours.",
+            "btn": "Contact me"
+        }
+    },
+    "contactPage": {
+        "metaTitle": "Contact | Zayn Sajju",
+        "metaDesc": "Contact Zayn Sajju for Amazon listing images, UGC ads and product video ad projects.",
+        "title": "Let's talk about your project",
+        "sub": "Send me a message and I will reply within 24 hours.",
+        "emailTitle": "Email me",
+        "emailNote": "The fastest way to reach me.",
+        "waTitle": "WhatsApp",
+        "onlineTitle": "Find me online",
+        "formIntro": "Have a project in mind? Reach out for Amazon listing images, UGC ads or product video ad projects."
+    }
+}

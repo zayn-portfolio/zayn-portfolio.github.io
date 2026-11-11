@@ -1,0 +1,11 @@
+# Keep private files private
+<FilesMatch "\.(json|log)$">
+  Require all denied
+</FilesMatch>
+<Files "auth.php">
+  Require all denied
+</Files>
+<Files "api.php">
+  Require all granted
+</Files>
+Options -Indexes
