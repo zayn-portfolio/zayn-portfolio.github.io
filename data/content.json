@@ -667,44 +667,62 @@
     },
     "services": {
         "metaTitle": "Services | Zayn Sajju",
-        "metaDesc": "Amazon listing images from $30, AI UGC ads from $50, product video ads from $80 and logo design from $40 by Zayn Sajju.",
+        "metaDesc": "Amazon listing images ($100 for 7), UGC video ads from $50, product video ads from $30, short form video editing from $70, and combo deals by Zayn Sajju.",
         "title": "Services",
         "sub": "Clear services with clear starting prices. Pick the one that fits your product, or contact me to mix and match.",
         "items": [
             {
                 "icon": "image",
-                "title": "Amazon Listing Image Design",
-                "text": "A full set of high converting listing images, including the main image, infographics and lifestyle images.",
+                "title": "Amazon Listing Image Design (7 Images)",
+                "text": "A full set of 7 high-converting Amazon listing images, including hero image, infographics, and lifestyle visuals.",
+                "from": "Package",
+                "price": "$100",
+                "unit": "for 7 images",
+                "btn": "Get started"
+            },
+            {
+                "icon": "palette",
+                "title": "Single Image Ad Design",
+                "text": "High-converting single image ad creative designed for Facebook, Instagram, or Google Ads.",
                 "from": "Starting at",
-                "price": "$30",
-                "unit": "per listing",
+                "price": "$20",
+                "unit": "per image",
                 "btn": "Get started"
             },
             {
                 "icon": "phone",
-                "title": "AI UGC Ads",
-                "text": "Realistic UGC style video ads created with AI for your products, ready for Facebook, Instagram and TikTok.",
+                "title": "AI UGC Video Ad",
+                "text": "Realistic creator-style UGC video ad crafted for TikTok, Instagram Reels, and Facebook Ads.",
                 "from": "Starting at",
                 "price": "$50",
                 "unit": "per video",
                 "btn": "Get started"
             },
             {
-                "icon": "video",
-                "title": "Professional Product Video Ads",
-                "text": "Polished product video ads with motion graphics, sound design and cinematic editing.",
+                "icon": "star",
+                "title": "Combo Pack (5 UGC + 5 Image Ads)",
+                "text": "Best value bundle: 5 high-converting UGC video ads plus 5 targeted single image ad creatives (10 total creatives).",
+                "from": "Special Combo",
+                "price": "$250",
+                "unit": "complete combo",
+                "btn": "Get started"
+            },
+            {
+                "icon": "cube",
+                "title": "Product Video Ad",
+                "text": "Polished product video ads with motion graphics, sound design, and cinematic editing.",
                 "from": "Starting at",
-                "price": "$80",
+                "price": "$30",
                 "unit": "per video",
                 "btn": "Get started"
             },
             {
-                "icon": "logo",
-                "title": "Logo and Brand Design",
-                "text": "A clean, professional logo and basic brand look for new businesses and online brands.",
+                "icon": "video",
+                "title": "Short-Form Video Editing",
+                "text": "High-retention short-form video editing for Reels, Shorts, and TikTok with dynamic pacing, sound effects, and captions.",
                 "from": "Starting at",
-                "price": "$40",
-                "unit": "per logo",
+                "price": "$70",
+                "unit": "per video",
                 "btn": "Get started"
             }
         ],
