@@ -62,8 +62,7 @@ services(s){
 contact(c,d){
  T('.p-head h1',c.title);T('.p-head .sec-h p',c.sub);T('.c-intro',c.formIntro);
  const i=d.info,w=waLink(i.whatsapp);
- $('.c-info').innerHTML=`<h3>${esc(c.emailTitle)}</h3><a class="mail" href="mailto:${esc(i.email)}">${esc(i.email)}</a><p>${esc(c.emailNote)}</p>`+(w?`<h3 class="sp">${esc(c.waTitle)}</h3><a class="wa-line" href="${esc(w)}" target="_blank" rel="noopener">${esc(i.whatsapp)}</a>`:'')+`<h3 class="sp">${esc(c.onlineTitle)}</h3><div class="social"></div>`;
- socials(i);
+ $('.c-info').innerHTML=`<h3>${esc(c.emailTitle)}</h3><a class="mail" href="mailto:${esc(i.email)}">${esc(i.email)}</a><p>${esc(c.emailNote)}</p>`+(w?`<h3 class="sp">${esc(c.waTitle)}</h3><a class="wa-line" href="${esc(w)}" target="_blank" rel="noopener">${esc(i.whatsapp)}</a>`:'');
  const sel=$('#f-type');sel.innerHTML='<option value="" disabled selected>Select a project type</option>'+d.services.items.map(x=>`<option>${esc(x.title)}</option>`).join('')+'<option>Something else</option>';
  const er=$('#err');if(er)er.textContent='Something went wrong and your message was not sent. Please email me directly at '+i.email+'.';
 }};
